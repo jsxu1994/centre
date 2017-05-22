@@ -11,7 +11,7 @@
 ## Example:
 ### input:
 <code>./a.out</code></br>
-<code>2</code></p></br>
+<code>2</code></br>
 <code>10 10 0</code></br>
 <code>0 0 0</code></br>
 ### output:
