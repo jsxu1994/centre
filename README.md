@@ -10,9 +10,9 @@
 3. input coordinates
 ## Example:
 ### input:
-<code>./a.out</code>
-<code>2</code>
-<code>10 10 0</code>
-<code>0 0 0</code>
+<p><code>./a.out</code></p>
+<p><code>2</code></p>
+<p><code>10 10 0</code></p>
+<p><code>0 0 0</code></p>
 ### output:
 <code>5 5 0</code>
